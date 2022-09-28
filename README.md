@@ -1,6 +1,7 @@
 # Loan Repayment Table
 The program accepts values for loan amount, yearly interest rate, and monthly payment amount from the terminal, and computes and displays on the terminal screen a loan repayment table. <br>
-![alt text](https://github.com/lisahyx/Loan-Repayment-Table/blob/3383432f1194a29cbe4e8d9587ebb0e746d615ca/loan-repayment-table.jpg?raw=true)
+
+![image](https://user-images.githubusercontent.com/104295321/192698043-979ed094-2d20-4603-a4a5-a70115bf8f2e.png)
 
 <b>Explanation of features</b><br>
 We have included 5 static text boxes which are the Loan Amount, Yearly Interest Rate, Monthly Payment, Total Repayment and Interest Sum. The blank boxes besides it are text boxes to input and output the figures. For example, the edit text boxes beside Loan Amount, Yearly Interest Rate and Monthly Payment allow the users to input amounts in it. While the other two boxes, beside Total Repayment and Interest Sum, we input some formulas to the coding so when the user clicks on calculate, it will automatically pop up an amount. Not only that, we have two push buttons. ‘Calculate’ is to calculate the amounts input by user and the result will show in the table below, whereas ‘Clear’ is to enhance the usability of the user if they want to re-enter or to produce a new result.
